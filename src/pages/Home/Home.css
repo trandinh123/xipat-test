@@ -1,0 +1,4 @@
+.Polaris-Layout__Section:has(canvas) {
+    display: flex;
+    justify-content: center;
+}

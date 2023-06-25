@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Polaris-Frame__Content {
+  display: flex;
+}
+.Polaris-Frame__Content .Polaris-Page {
+  margin: 0 100px;
+  width: 100%;
+}

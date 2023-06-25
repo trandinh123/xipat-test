@@ -1,0 +1,7 @@
+.ColorPickerField__PreviewColor {
+    width: 36px;
+    height: 36px;
+    background-color: #000;
+    border-radius: 3px;
+    cursor: pointer;
+}

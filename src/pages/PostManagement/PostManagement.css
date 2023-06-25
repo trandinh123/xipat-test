@@ -1,0 +1,12 @@
+.Polaris-DataTable {
+    height: 600px;
+    overflow: scroll !important;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: gray;
+  border-radius: 3px;
+}
