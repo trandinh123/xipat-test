@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import NavigationBar from "../../components/NavigationBar/Navigation";
-import { Frame, Tabs, Page, FormLayout, Layout } from "@shopify/polaris";
+import { Tabs, Page, FormLayout, Layout } from "@shopify/polaris";
 import { SubscriptionChart } from "../../components/SubscriptionChart/SubscriptionChart";
 import { RevenueChart } from "../../components/RevenueChart/RevenueChart";
 import "./Home.css";

@@ -1,7 +1,6 @@
 import { Navigation } from "@shopify/polaris";
 import {
   HomeMinor,
-  OrdersMinor,
   SettingsMajor,
   AnalyticsTableMinor,
 } from "@shopify/polaris-icons";

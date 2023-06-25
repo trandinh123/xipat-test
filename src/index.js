@@ -1,14 +1,9 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import App from "./App";
 import { AppProvider } from "@shopify/polaris";
 import en from "@shopify/polaris/locales/en.json";
 import "@shopify/polaris/build/esm/styles.css";
-import {
-  createBrowserRouter,
-  Navigate,
-  RouterProvider,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Root from "./components/Root/Root";
 import PostManagement from "./pages/PostManagement/PostManagement";
