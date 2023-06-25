@@ -8,6 +8,7 @@ import Home from "./pages/Home/Home";
 import Root from "./components/Root/Root";
 import PostManagement from "./pages/PostManagement/PostManagement";
 import Settings from "./pages/Settings/Settings";
+import "./index.css";
 
 const router = createBrowserRouter([
   {
